@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* All-In-One Unique CSS */
+
+#business {
+background:url(../../../images/businessbackground.png) repeat-x;
+padding-left:12px;
+padding-right:10px;
+padding-top:20px;
+padding-bottom:13px;
+margin-top:2px;
+margin-left:-8px;
+width:938px;
+overflow:hidden;
+border-bottom-style:solid;
+border-bottom-width:3px;
+border-bottom-color:#686c8a;
+}
+
+#business img{
+border: 1px solid #999999;
+padding: 2px;
+}
+
+#home{
+margin-top: 18px;
+width:960px;
+background:grey;
+}
+
+#home h3{
+font:18px Gotham, Sans-Serif;}
+
+#homepage-left{
+float: left;
+width: 285px;
+height:380px;
+background:#f5f5f6;
+margin-right:15px;
+margin-bottom:10px;
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+overflow:hidden;
+}
+
+#homepage-left img{
+border: 1px solid #999999;
+padding: 2px;
+}
+
+#homepage-middle{
+float: left;
+width: 285px;
+height:380px;
+background:#f5f5f6;
+margin-right:15px;
+margin-bottom:10px;
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+overflow:hidden;
+}
+
+#homepage-middle img{
+border: 1px solid #999999;
+padding: 2px;
+}
+
+#homepage-right{
+float: left;
+width: 285px;
+height:380px;
+background:#f5f5f6;
+margin-bottom:10px;
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+overflow:hidden;
+}
+
+#homepage-right img{
+border: 1px solid #999999;
+padding: 2px;
+}
+
+#content {
+	padding-top:6px;
+}

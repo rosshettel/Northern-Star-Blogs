@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* Rotator Unique CSS */
+
+/*** Slideshow: set the width and height to match your images **/
+
+#wraptop{width:890px}
+
+#slideshow {
+float:left;
+margin-left: 10px;
+width:350px;
+height:225px;}
+
+#slideshow img {
+border:none;}
+ 
+#business {
+width:940px;
+padding-left:11px;
+}
+
+#devider{
+margin-top:25px;
+width:965px;
+margin-left:-12px;
+border-top-style:solid;
+border-top-width:3px;
+border-top-color:#686c8a;
+}
+
+#home{
+margin-top: 15px;
+margin-left:-3px;
+width:960px;
+}
+
+#home h3{
+font:18px Gotham, Sans-Serif;}
+
+#company-news{
+margin-top:12px;
+margin-bottom:12px;
+}
+
+#company-news h2{
+padding-top:7px;
+}
+
+#homepage-box1{
+float: left;
+width: 200px;
+height:200px;
+background:#f5f5f6;
+margin-right:18px;
+margin-left:3px;
+margin-bottom:15px;
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+overflow:hidden;
+	border-style:solid;
+	border-width:1px;
+	border-color:#686c8a;
+}
+
+#homepage-box1 img{
+border:solid 1px #999;
+padding:2px;
+}
+
+#homepage-box2{
+float: left;
+width: 200px;
+height:200px;
+background:#f5f5f6;
+margin-right:18px;
+margin-bottom:15px;
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+overflow:hidden;
+	border-style:solid;
+	border-width:1px;
+	border-color:#686c8a;
+}
+
+#homepage-box2 img{
+border:solid 1px #999;
+padding:2px;
+}
+
+#homepage-box3{
+float: left;
+width: 200px;
+height:200px;
+background:#f5f5f6;
+margin-right:18px;
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+overflow:hidden;
+	border-style:solid;
+	border-width:1px;
+	border-color:#686c8a;
+}
+
+#homepage-box3 img{
+border:solid 1px #999;
+padding:2px;
+}
+
+#homepage-box4{
+float: left;
+width: 200px;
+height:200px;
+background:#f5f5f6;
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+overflow:hidden;
+	border-style:solid;
+	border-width:1px;
+	border-color:#686c8a;
+}
+
+#homepage-box4 img{
+border:solid 1px #999;
+padding:2px;
+}
+
+#content {
+padding-top:0px;
+margin-top: 15px;
+}
+

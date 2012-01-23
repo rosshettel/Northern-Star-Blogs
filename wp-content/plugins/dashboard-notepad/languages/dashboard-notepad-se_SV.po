@@ -1,0 +1,78 @@
+# Copyright (C) 2010 Dashboard Notepad
+# This file is distributed under the same license as the Dashboard Notepad package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dashboard Notepad 1.36 Svenska\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/dashboard-notepad\n"
+"POT-Creation-Date: 2011-06-29 18:35:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-07-03 23:57+0100\n"
+"Last-Translator: Rabatt <translate@rabatt.se>\n"
+"Language-Team: Rabatt <translate@rabatt.se>\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: dashboard-notepad.php:42
+msgid "Save Notes"
+msgstr "Spara Noteringar"
+
+#: dashboard-notepad.php:60
+#: dashboard-notepad.php:73
+msgid "Notepad"
+msgstr "Notepad"
+
+#: dashboard-notepad.php:70
+msgid "Enter here whatever is on your mind."
+msgstr "Ange här vad är du tänker på."
+
+#: dashboard-notepad.php:134
+msgid "Widget title:"
+msgstr "Widget Titel:"
+
+#: dashboard-notepad.php:136
+msgid "Widget height:"
+msgstr "Widget höjd:"
+
+#: dashboard-notepad.php:137
+msgid "lines"
+msgstr "linjer"
+
+#: dashboard-notepad.php:140
+msgid "Users in these roles can <strong>edit</strong> the notes:"
+msgstr "Användare i dessa roller kan <strong>redigera</strong> anteckningar:"
+
+#: dashboard-notepad.php:148
+msgid "Users in these roles can <strong>read</strong> the notes:"
+msgstr "Användare i dessa roller kan <strong>läsar</strong> anteckningar:"
+
+#: dashboard-notepad.php:153
+msgid "The Public"
+msgstr "Allmänheten"
+
+#: dashboard-notepad.php:158
+msgid "Automatically add paragraphs when displaying the notes on the front end."
+msgstr "Automatiskt lägga till punkter vid visning av anteckningar på fronten."
+
+#. Plugin Name of the plugin/theme
+msgid "Dashboard Notepad"
+msgstr "Dashboard Notepad"
+
+#. Plugin URI of the plugin/theme
+msgid "http://sillybean.net/code/wordpress/dashboard-notepad/"
+msgstr "http://sillybean.net/code/wordpress/dashboard-notepad/"
+
+#. Description of the plugin/theme
+msgid "The very simplest of notepads for your Dashboard. Based on <a href=\"http://www.contutto.com/\">Alex G&uuml;nsche's</a> Headache With Pictures. You can use the <code>&lt;?php dashboard_notes(); ?&gt;</code> template tag or the <code>[dashboard_notes]</code> shortcode to display your notes publicly."
+msgstr "Den allra enklaste av anteckningsblock för din Dashboard. Baserat på <a href=\"http://www.contutto.com/\">Alex G&uuml;nsche's</a> Headache With Pictures. Du kan använda  <code>&lt;?php dashboard_notes(); ?&gt;</code>  mall taggen eller <code>[dashboard_notes]</code> kortkod för att visa dina anteckningar offentligt."
+
+#. Author of the plugin/theme
+msgid "Stephanie Leary"
+msgstr "Stephanie Leary"
+
+#. Author URI of the plugin/theme
+msgid "http://sillybean.net/"
+msgstr "http://sillybean.net/"
+

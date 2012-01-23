@@ -1,0 +1,11 @@
+<FilesMatch "(\.log)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+<FilesMatch "^(zend_cache)">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+IndexIgnore *

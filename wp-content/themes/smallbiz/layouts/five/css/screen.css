@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* Fivepanel Unique CSS */
+
+#business {
+background:url(../../../images/businessbackground.png) repeat-x;
+padding-left:12px;
+padding-right:10px;
+padding-top:20px;
+padding-bottom:20px;
+width:940px;
+margin-left:-8px;
+border-bottom-style:solid;
+border-bottom-width:3px;
+border-bottom-color:#686c8a;
+}
+
+#business img{
+border:solid 1px #999;
+padding:2px;
+}
+
+#home{
+margin-top: 15px;
+width:960px;
+background:grey;
+}
+
+#home h3{
+font:18px Gotham, Sans-Serif;}
+
+#homepage-top-left{
+float: left;
+width: 472px;
+height:298px;
+background:#f5f5f6;
+margin-right:8px;
+margin-bottom:8px;
+overflow:hidden;
+}
+
+#homepage-top-right{
+float: left;
+width: 444px;
+height:278px;
+background:#f5f5f6;
+margin-bottom:8px;
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+overflow:hidden;
+}
+
+#homepage-top-right img{
+border:solid 1px #999;
+padding:2px;
+}
+
+#homepage-bottom-left{
+float: left;
+width: 452px;
+height:278px;
+background:#f5f5f6;
+margin-right:8px;
+margin-bottom:10px;
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
+padding-bottom:15px;
+overflow:hidden;
+}
+
+#homepage-bottom-left img{
+border:solid 1px #999;
+padding:2px;
+}
+
+#homepage-bottom-right{
+float: left;
+width: 444px;
+height:278px;
+margin-bottom:10px;
+background:#f5f5f6;
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
+padding-bottom:15px;
+overflow:hidden;
+}
+
+#homepage-bottom-right img{
+border:solid 1px #999;
+padding:2px;
+}

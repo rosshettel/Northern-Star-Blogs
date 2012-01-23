@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+
+/* Cynthia Unique CSS */
+
+#business {
+margin-bottom:12px;
+}
+
+#home{
+margin-top: 2px;
+width:960px;
+background:grey;
+}
+
+#homeimage {
+float: none;
+margin:0px;
+border:none;
+padding:0px;
+}
+
+#homeimage img {
+float: none;
+margin:0px;
+border:none;
+padding:0px;
+}
+
+#home h3{
+font:18px Gotham, Sans-Serif;}
+
+#homepage-left{
+float: left;
+width: 220px;
+height:380px;
+background:#f5f5f6;
+margin-left:-8px;
+margin-bottom:10px;
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+overflow:hidden;
+}
+
+#homepage-left img{
+border: solid 1px #999;
+padding:2px;
+}
+
+#homepage-right{
+float: right;
+width: 692px;
+height:380px;
+background:#f5f5f6;
+margin-bottom:10px;
+padding-left:10px;
+padding-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+overflow:hidden;
+}
+
+#homepage-right img{
+border: solid 1px #999;
+padding:2px;
+}
+
+#homepage-right p{
+padding-right:30px;
+}
+
+#content {
+	padding-top:6px;
+}

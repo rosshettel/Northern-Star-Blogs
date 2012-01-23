@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Stephanie Leary
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/dashboard-notepad\n"
+"POT-Creation-Date: 2009-11-23 03:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: dashboard-notepad.php:44
+msgid "Save Notes"
+msgstr ""
+
+#: dashboard-notepad.php:56 dashboard-notepad.php:68
+msgid "Notepad"
+msgstr ""
+
+#: dashboard-notepad.php:67
+msgid "Enter here whatever is on your mind."
+msgstr ""
+
+#: dashboard-notepad.php:87
+msgid "Widget title:"
+msgstr ""
+
+#: dashboard-notepad.php:91 dashboard-notepad.php:101
+msgid "Admins"
+msgstr ""
+
+#: dashboard-notepad.php:92 dashboard-notepad.php:102
+msgid "Editors"
+msgstr ""
+
+#: dashboard-notepad.php:93 dashboard-notepad.php:103
+msgid "Authors"
+msgstr ""
+
+#: dashboard-notepad.php:94 dashboard-notepad.php:104
+msgid "Contributors"
+msgstr ""
+
+#: dashboard-notepad.php:95 dashboard-notepad.php:105
+msgid "Subscribers"
+msgstr ""
+
+#: dashboard-notepad.php:97
+msgid "and above can <strong>edit</strong> the notes."
+msgstr ""
+
+#: dashboard-notepad.php:106
+msgid "The Public"
+msgstr ""
+
+#: dashboard-notepad.php:108
+msgid "and above can <strong>read</strong> the notes."
+msgstr ""
+
+#: dashboard-notepad.php:112
+msgid ""
+"Automatically add paragraphs when displaying the notes on the front end."
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "Dashboard Notepad"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://sillybean.net/code/wordpress/dashboard-notepad/"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"The very simplest of notepads for your Dashboard. Based on <a href=\"http://"
+"www.contutto.com/\">Alex G&uuml;nsche's</a> Headache With Pictures. You can "
+"use the <code>&lt;?php dashboard_notes(); ?&gt;</code> template tag or the "
+"<code>[dashboard_notes]</code> shortcode to display your notes publicly."
+msgstr ""
+
+#. Author of an extension
+msgid "Stephanie Leary"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://sillybean.net/"
+msgstr ""

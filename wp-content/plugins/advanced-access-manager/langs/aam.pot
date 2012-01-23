@@ -1,0 +1,963 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AAM\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-08 13:26-0500\n"
+"PO-Revision-Date: 2012-01-08 13:28-0500\n"
+"Last-Translator: Vasyl Martyniuk <scarab.regit@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: d:\\xampp\\htdocs\\version1_5\\wp-content\\plugins\\advanced-access-manager\\\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mvb_wp_access.php:694
+msgid "Access Manager"
+msgstr ""
+
+#: models/mvb_model_helper.php:86
+msgid "Password Protected"
+msgstr ""
+
+#: models/mvb_model_helper.php:90
+msgid "Public"
+msgstr ""
+
+#: models/mvb_model_label.php:46
+msgid "Advanced Access Manager"
+msgstr ""
+
+#: models/mvb_model_label.php:47
+msgid "Additional features available"
+msgstr ""
+
+#: models/mvb_model_label.php:48
+msgid "Alert"
+msgstr ""
+
+#: models/mvb_model_label.php:49
+msgid "You have a JavaScript Error on a page"
+msgstr ""
+
+#: models/mvb_model_label.php:50
+msgid "Please read <a href=\"http://wordpress.org/extend/plugins/advanced-access-manager/faq/\" target=\"_blank\">FAQ</a> for more information"
+msgstr ""
+
+#: models/mvb_model_label.php:51
+msgid "Options updated successfully"
+msgstr ""
+
+#: models/mvb_model_label.php:52
+msgid "Main Menu"
+msgstr ""
+
+#: models/mvb_model_label.php:53
+msgid "Metaboxes & Widgets"
+msgstr ""
+
+#: models/mvb_model_label.php:54
+msgid "Capabilities"
+msgstr ""
+
+#: models/mvb_model_label.php:55
+msgid "Posts & Pages"
+msgstr ""
+
+#: models/mvb_model_label.php:56
+msgid "To Reorganize menu just Drag and Drop Items on the List and click Save Order"
+msgstr ""
+
+#: models/mvb_model_label.php:57
+#: models/mvb_model_label.php:170
+msgid "Reorganize"
+msgstr ""
+
+#: models/mvb_model_label.php:58
+msgid "Whole Branch"
+msgstr ""
+
+#: models/mvb_model_label.php:59
+msgid "To initialize list of metaboxes manually, copy and paste the URL to edit screen page into text field and click \"Initiate URL\". List of all new metaboxes will be added automatically."
+msgstr ""
+
+#: models/mvb_model_label.php:60
+msgid "Enter Correct URL"
+msgstr ""
+
+#: models/mvb_model_label.php:61
+msgid "Initiate URL"
+msgstr ""
+
+#: models/mvb_model_label.php:62
+msgid "Refresh List"
+msgstr ""
+
+#: models/mvb_model_label.php:63
+msgid "ID"
+msgstr ""
+
+#: models/mvb_model_label.php:64
+msgid "Priority"
+msgstr ""
+
+#: models/mvb_model_label.php:65
+msgid "Position"
+msgstr ""
+
+#: models/mvb_model_label.php:66
+msgid "Restrict"
+msgstr ""
+
+#: models/mvb_model_label.php:67
+msgid "List of Metaboxes is empty or not initialized."
+msgstr ""
+
+#: models/mvb_model_label.php:68
+msgid "Initiate the List"
+msgstr ""
+
+#: models/mvb_model_label.php:69
+msgid "Delete Capability"
+msgstr ""
+
+#: models/mvb_model_label.php:70
+msgid "Click for Tooltip"
+msgstr ""
+
+#: models/mvb_model_label.php:71
+#: models/mvb_model_label.php:154
+msgid "Add New Capability"
+msgstr ""
+
+#: models/mvb_model_label.php:72
+msgid "Add New Cap"
+msgstr ""
+
+#: models/mvb_model_label.php:73
+msgid "Give Administrator's List of Capabilities"
+msgstr ""
+
+#: models/mvb_model_label.php:74
+msgid "Administrator"
+msgstr ""
+
+#: models/mvb_model_label.php:75
+msgid "Give Editor's List of Capabilities"
+msgstr ""
+
+#: models/mvb_model_label.php:76
+msgid "Editor"
+msgstr ""
+
+#: models/mvb_model_label.php:77
+msgid "Give Author's List of Capabilities"
+msgstr ""
+
+#: models/mvb_model_label.php:78
+msgid "Author"
+msgstr ""
+
+#: models/mvb_model_label.php:79
+msgid "Give Contributor's List of Capabilities"
+msgstr ""
+
+#: models/mvb_model_label.php:80
+msgid "Contributor"
+msgstr ""
+
+#: models/mvb_model_label.php:81
+msgid "Give Subscriber's List of Capabilities"
+msgstr ""
+
+#: models/mvb_model_label.php:82
+msgid "Subscriber"
+msgstr ""
+
+#: models/mvb_model_label.php:83
+msgid "Clear all Capabilities"
+msgstr ""
+
+#: models/mvb_model_label.php:84
+msgid "Clear All"
+msgstr ""
+
+#: models/mvb_model_label.php:85
+msgid "Collapse All"
+msgstr ""
+
+#: models/mvb_model_label.php:86
+msgid "Expand All"
+msgstr ""
+
+#: models/mvb_model_label.php:87
+msgid "Error during saving"
+msgstr ""
+
+#: models/mvb_model_label.php:88
+msgid "Title"
+msgstr ""
+
+#: models/mvb_model_label.php:89
+msgid "This is the title of selected Post or Page"
+msgstr ""
+
+#: models/mvb_model_label.php:90
+msgid "Selected item's type"
+msgstr ""
+
+#: models/mvb_model_label.php:91
+msgid "Type"
+msgstr ""
+
+#: models/mvb_model_label.php:92
+msgid "Status"
+msgstr ""
+
+#: models/mvb_model_label.php:93
+msgid "Current Post or Page Status"
+msgstr ""
+
+#: models/mvb_model_label.php:94
+msgid "Visibility"
+msgstr ""
+
+#: models/mvb_model_label.php:95
+msgid "Visibility of current Post or Page"
+msgstr ""
+
+#: models/mvb_model_label.php:96
+msgid "Restrict Admin"
+msgstr ""
+
+#: models/mvb_model_label.php:97
+msgid "Restrict access to current Post or Page on BackEnd"
+msgstr ""
+
+#: models/mvb_model_label.php:98
+msgid "Restrict Front"
+msgstr ""
+
+#: models/mvb_model_label.php:99
+msgid "Restrict access to current Post or Page on FrontEnd"
+msgstr ""
+
+#: models/mvb_model_label.php:100
+msgid "Exclude Page"
+msgstr ""
+
+#: models/mvb_model_label.php:101
+msgid "Just Exclude page from navitation but do not restrict access"
+msgstr ""
+
+#: models/mvb_model_label.php:102
+msgid "Expire"
+msgstr ""
+
+#: models/mvb_model_label.php:103
+msgid "If Restric is checked then restrict access to current Post or Page until the picked date. If Restrict is unchecked then allow access to Page or Post until the picked date"
+msgstr ""
+
+#: models/mvb_model_label.php:104
+msgid "Update info only for current role"
+msgstr ""
+
+#: models/mvb_model_label.php:105
+msgid "Update Current"
+msgstr ""
+
+#: models/mvb_model_label.php:106
+msgid "Update info for all role"
+msgstr ""
+
+#: models/mvb_model_label.php:107
+msgid "Update All"
+msgstr ""
+
+#: models/mvb_model_label.php:108
+msgid "Category"
+msgstr ""
+
+#: models/mvb_model_label.php:109
+msgid "Category title"
+msgstr ""
+
+#: models/mvb_model_label.php:110
+msgid "This is just a type of post's taxonomy. Always Category"
+msgstr ""
+
+#: models/mvb_model_label.php:111
+msgid "Posts"
+msgstr ""
+
+#: models/mvb_model_label.php:112
+msgid "Number of posts current category has"
+msgstr ""
+
+#: models/mvb_model_label.php:113
+msgid "Restrict access to current category and for all Sub Categories on BackEnd. Also it'll restrict access to all posts under these categories"
+msgstr ""
+
+#: models/mvb_model_label.php:114
+msgid "Restrict access to current category and for all Sub Categories on FrontEnd. Also it'll restrict access to all posts under these categories"
+msgstr ""
+
+#: models/mvb_model_label.php:115
+msgid "If Restric is checked then restrict access to current Category and all Sub Categories, and Posts since the picked date. If Restrict is unchecked then allow access to current Category and all Sub Categories, and Posts since the picked date"
+msgstr ""
+
+#: models/mvb_model_label.php:116
+msgid "Select a proper Page, Post or Category."
+msgstr ""
+
+#: models/mvb_model_label.php:117
+msgid "Click to toggle"
+msgstr ""
+
+#: models/mvb_model_label.php:118
+msgid "General"
+msgstr ""
+
+#: models/mvb_model_label.php:119
+msgid "Current Role"
+msgstr ""
+
+#: models/mvb_model_label.php:120
+msgid "Change"
+msgstr ""
+
+#: models/mvb_model_label.php:121
+msgid "OK"
+msgstr ""
+
+#: models/mvb_model_label.php:122
+msgid "Cancel"
+msgstr ""
+
+#: models/mvb_model_label.php:123
+msgid "Restore Default Setting for Current Role"
+msgstr ""
+
+#: models/mvb_model_label.php:124
+msgid "Export Configurations"
+msgstr ""
+
+#: models/mvb_model_label.php:125
+msgid "Saving..."
+msgstr ""
+
+#: models/mvb_model_label.php:126
+msgid "Save"
+msgstr ""
+
+#: models/mvb_model_label.php:127
+msgid "Role Manager"
+msgstr ""
+
+#: models/mvb_model_label.php:128
+msgid "Role List"
+msgstr ""
+
+#: models/mvb_model_label.php:129
+msgid "Add New"
+msgstr ""
+
+#: models/mvb_model_label.php:130
+msgid "Delete"
+msgstr ""
+
+#: models/mvb_model_label.php:131
+msgid "Enter New Role"
+msgstr ""
+
+#: models/mvb_model_label.php:132
+msgid "Add"
+msgstr ""
+
+#: models/mvb_model_label.php:133
+msgid "New Role Created successfully"
+msgstr ""
+
+#: models/mvb_model_label.php:134
+msgid "Error"
+msgstr ""
+
+#: models/mvb_model_label.php:135
+msgid "Role can't be created"
+msgstr ""
+
+#: models/mvb_model_label.php:136
+msgid "Support"
+msgstr ""
+
+#: models/mvb_model_label.php:137
+msgid "Send an Email"
+msgstr ""
+
+#: models/mvb_model_label.php:138
+msgid "Find on Facebook"
+msgstr ""
+
+#: models/mvb_model_label.php:139
+msgid "Follow on Twitter"
+msgstr ""
+
+#: models/mvb_model_label.php:140
+msgid "LinkedIn"
+msgstr ""
+
+#: models/mvb_model_label.php:141
+msgid "Delete Role?"
+msgstr ""
+
+#: models/mvb_model_label.php:142
+msgid "Please confirm deleting Role"
+msgstr ""
+
+#: models/mvb_model_label.php:143
+msgid "Save Menu Order?"
+msgstr ""
+
+#: models/mvb_model_label.php:144
+msgid "Would you like to save Menu Order <b>ONLY</b> for Role"
+msgstr ""
+
+#: models/mvb_model_label.php:145
+msgid "Delete Capability?"
+msgstr ""
+
+#: models/mvb_model_label.php:146
+msgid "Please confirm deleting Capability"
+msgstr ""
+
+#: models/mvb_model_label.php:147
+msgid "Restore Default Role Settings?"
+msgstr ""
+
+#: models/mvb_model_label.php:148
+msgid "All current settings will be lost. Are you sure?"
+msgstr ""
+
+#: models/mvb_model_label.php:149
+msgid "Apply Setting for ALL User Roles?"
+msgstr ""
+
+#: models/mvb_model_label.php:150
+msgid "Do you really want to apply these settings for <b>ALL</b> User Roles?"
+msgstr ""
+
+#: models/mvb_model_label.php:151
+msgid "Do not show me this message again."
+msgstr ""
+
+#: models/mvb_model_label.php:152
+msgid "Leave Without Saving?"
+msgstr ""
+
+#: models/mvb_model_label.php:153
+msgid "Some changed detected. Are you sure that you want to leave without saving?"
+msgstr ""
+
+#: models/mvb_model_label.php:155
+msgid "Additional Features Available"
+msgstr ""
+
+#: models/mvb_model_label.php:156
+msgid "Additional features detected to extend Advanced Access Manager functionality."
+msgstr ""
+
+#: models/mvb_model_label.php:157
+msgid "Read More..."
+msgstr ""
+
+#: models/mvb_model_label.php:158
+msgid "Upgrade functionality"
+msgstr ""
+
+#: models/mvb_model_label.php:159
+msgid "Important Message"
+msgstr ""
+
+#: models/mvb_model_label.php:160
+msgid "Do you want to create a <b>Super Admin</b> Role to get access to ALL features?"
+msgstr ""
+
+#: models/mvb_model_label.php:161
+msgid "Import Configurations"
+msgstr ""
+
+#: models/mvb_model_label.php:162
+msgid "WARNING"
+msgstr ""
+
+#: models/mvb_model_label.php:163
+msgid "Advanced Access Manager requires WordPress 3.1 or newer. <a href=\"http://codex.wordpress.org/Upgrading_WordPress\">Update now!</a>"
+msgstr ""
+
+#: models/mvb_model_label.php:164
+msgid "Advanced Access Manager requires PHP 5.1.2 or newer"
+msgstr ""
+
+#: models/mvb_model_label.php:165
+msgid "Empty Capability"
+msgstr ""
+
+#: models/mvb_model_label.php:166
+msgid "Current Capability can not be deleted"
+msgstr ""
+
+#: models/mvb_model_label.php:167
+msgid "Super Admin"
+msgstr ""
+
+#: models/mvb_model_label.php:168
+msgid "Unauthorized Action"
+msgstr ""
+
+#: models/mvb_model_label.php:169
+msgid "Options List"
+msgstr ""
+
+#: models/mvb_model_label.php:171
+msgid "Yes"
+msgstr ""
+
+#: models/mvb_model_label.php:172
+msgid "Apply for All"
+msgstr ""
+
+#: models/mvb_model_label.php:173
+msgid "Add Capability"
+msgstr ""
+
+#: models/mvb_model_label.php:174
+msgid "Error Appears during Metabox initialization!"
+msgstr ""
+
+#: models/mvb_model_label.php:175
+msgid "Delete Role"
+msgstr ""
+
+#: models/mvb_model_label.php:176
+msgid "Restore"
+msgstr ""
+
+#: models/mvb_model_label.php:177
+msgid "Current Role can not be restored!"
+msgstr ""
+
+#: models/mvb_model_label.php:178
+msgid "Apply All"
+msgstr ""
+
+#: models/mvb_model_label.php:179
+msgid "Error during information grabbing!"
+msgstr ""
+
+#: models/mvb_model_label.php:180
+msgid "Import"
+msgstr ""
+
+#: models/mvb_model_label.php:181
+msgid "Error during importing"
+msgstr ""
+
+#: models/mvb_model_label.php:182
+msgid "Create"
+msgstr ""
+
+#: models/mvb_model_label.php:183
+msgid "Do not Create"
+msgstr ""
+
+#: models/mvb_model_label.php:184
+msgid "Change Role"
+msgstr ""
+
+#: models/mvb_model_label.php:185
+msgid "Current Site"
+msgstr ""
+
+#: models/mvb_model_label.php:186
+msgid "cURL library returned empty result. Contact your system administrator to fix this issue."
+msgstr ""
+
+#: models/mvb_model_label.php:187
+msgid "You are not an active user for current blog. Please click <a href=\"#\" id=\"add-user-toblog\">here</a> to add youself to current blog as Administrator"
+msgstr ""
+
+#: models/mvb_model_label.php:188
+msgid ""
+"<p><span style=\"color: #FF0000;\">PLEASE READ THIS!</span> You entered <b>Advanced Access Manager</b> Option Page.</p>\n"
+"        <p>This graphic interface allows you to control access to your WordPress Blog. <b>DO NOT</b> try to change settings if you are not sure what you are doing! If you have problems or questions, or just found something weird in a system's behavior, <b>PLEASE</b> take a look to <a href=\"http://wordpress.org/extend/plugins/advanced-access-manager/faq/\" target=\"_blank\">FAQ</a> section before asking for support.</p>\n"
+"        <p>For your safety, after you press <b>OK</b> button, Super Admin Role will be created specifically for your user.</p>\n"
+"        <p>Users with already defined Super Admin Role will be deprived of it and replaced with Administrator Role</p>\n"
+"        <p>If you have Multi-Site Setup, you will see the same message again for each new Blog you entered or created.</p>"
+msgstr ""
+
+#: models/mvb_model_label.php:193
+msgid "Apply to ALL Blogs"
+msgstr ""
+
+#: models/mvb_model_label.php:194
+msgid "You are going to apply current Blog's Settings to ALL Blogs in a WordPress Multisite setup. Please Notice that it will apply only <i>Main Menu</i>, <i>Metaboxes & Widgets</i> and <i>Capabilities</i> Settings. <i>Pages & Posts</i> Settings will be skip in fact of possible IDs mismatch."
+msgstr ""
+
+#: models/mvb_model_label.php:195
+msgid "Action completed successfully"
+msgstr ""
+
+#: models/mvb_model_label.php:196
+msgid "Action failed"
+msgstr ""
+
+#: models/mvb_model_label.php:197
+msgid "Settings applied successfully to ALL Blogs"
+msgstr ""
+
+#: models/mvb_model_label.php:198
+msgid "empty"
+msgstr ""
+
+#: models/mvb_model_label.php:199
+msgid "Administrator added Successfully"
+msgstr ""
+
+#: models/mvb_model_label.php:200
+msgid "Failed to add new Administrator"
+msgstr ""
+
+#: models/mvb_model_label.php:201
+msgid "You do not have installed <a href=\"http://whimba.org/add-ons\" target=\"_blank\">AAM MSAR Extend</a> Add-on. Settings Applies only for first "
+msgstr ""
+
+#: models/mvb_model_label.php:202
+msgid "Access Config"
+msgstr ""
+
+#: models/mvb_model_label.php:203
+msgid "Current User"
+msgstr ""
+
+#: models/mvb_model_label.php:204
+msgid "All Users"
+msgstr ""
+
+#: models/mvb_model_label.php:205
+msgid "Delete current capability"
+msgstr ""
+
+#: models/mvb_model_label.php:206
+msgid "Access Config is global configuration for ALL Roles and Users in current blog"
+msgstr ""
+
+#: models/mvb_model_label.php:207
+msgid "Install <a href=\"http://whimba.org/add-ons\" target=\"_blank\">Extend Restriction</a> to be able to set more then 5 restrictions for one Role"
+msgstr ""
+
+#: models/mvb_model_label.php:208
+msgid "<p>You do not have sufficient permissions to perform this action</p>"
+msgstr ""
+
+#: models/mvb_model_label.php:221
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel options:\n"
+"\t\t\t\t\t- Appearance\n"
+"\t\t\t\t\t- Appearance > Themes"
+msgstr ""
+
+#: models/mvb_model_label.php:225
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Appearance > Theme Editor to edit theme files."
+msgstr ""
+
+#: models/mvb_model_label.php:227
+msgid ""
+"Since 3.0\n"
+"\t\t\t\tAllows access to Administration Panel options:\n"
+"\t\t\t\t\t- Appearance > Background\n"
+"\t\t\t\t\t- Appearance > Header\n"
+"\t\t\t\t\t- Appearance > Menus\n"
+"\t\t\t\t\t- Appearance > Widgets\n"
+"\t\t\t\t\t- Also allows access to Theme Options pages if they are included in the Theme"
+msgstr ""
+
+#: models/mvb_model_label.php:234
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tUser can edit their published posts. This capability is off by default.\n"
+"\t\t\t\tThe core checks the capability edit_posts, but on demand this check is changed to edit_published_posts.\n"
+"\t\t\t\tIf you do not want a user to be able edit his published posts, remove this capability."
+msgstr ""
+
+#: models/mvb_model_label.php:238
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel options:\n"
+"\t\t\t\t\t- Manage > Comments (Lets user delete and edit every comment, see edit_posts above)\n"
+"\t\t\t\t\t- user can edit other posts through function get_others_drafts()\n"
+"\t\t\t\t\t- user can see other images in inline-uploading"
+msgstr ""
+
+#: models/mvb_model_label.php:243
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel options: \n"
+"                    - Settings > General\n"
+"                    - Settings > Writing\n"
+"                    - Settings > Writing\n"
+"                    - Settings > Reading\n"
+"                    - Settings > Discussion\n"
+"                    - Settings > Permalinks\n"
+"                    - Settings > Miscellaneous"
+msgstr ""
+
+#: models/mvb_model_label.php:252
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel option:\n"
+"\t\t\t\t\t- Appearance > Add New Themes"
+msgstr ""
+
+#: models/mvb_model_label.php:255
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel option:  \n"
+"\t\t\t\t\t- Plugins"
+msgstr ""
+
+#: models/mvb_model_label.php:258
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel option:  \n"
+"\t\t\t\t\t- Plugins > Plugin Editor"
+msgstr ""
+
+#: models/mvb_model_label.php:261
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel option:  \n"
+"\t\t\t\t\t- Plugins > Add New"
+msgstr ""
+
+#: models/mvb_model_label.php:264
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel option:  \n"
+"\t\t\t\t\t- Users"
+msgstr ""
+
+#: models/mvb_model_label.php:267
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tNote: No longer used."
+msgstr ""
+
+#: models/mvb_model_label.php:269
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows users to moderate comments from the Comments SubPanel (although a user needs the edit_posts Capability in order to access this)"
+msgstr ""
+
+#: models/mvb_model_label.php:271
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel options:  \n"
+"\t\t\t\t\t- Posts > Categories\n"
+"\t\t\t\t\t- Links > Categories"
+msgstr ""
+
+#: models/mvb_model_label.php:275
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel options:  \n"
+"\t\t\t\t\t- Links\n"
+"\t\t\t\t\t- Links > Add New"
+msgstr ""
+
+#: models/mvb_model_label.php:279
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel options:  \n"
+"\t\t\t\t\t- Media\n"
+"\t\t\t\t\t- Media > Add New"
+msgstr ""
+
+#: models/mvb_model_label.php:283
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel options:  \n"
+"\t\t\t\t\t- Tools > Import\n"
+"\t\t\t\t\t- Tools > Export"
+msgstr ""
+
+#: models/mvb_model_label.php:287
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows user to post HTML markup or even JavaScript code in pages, posts, and comments.\n"
+"\t\t\t\tNote: Enabling this option for untrusted users may result in their posting malicious or poorly formatted code."
+msgstr ""
+
+#: models/mvb_model_label.php:290
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel options:  \n"
+"\t\t\t\t\t- Posts\n"
+"\t\t\t\t\t- Posts > Add New\n"
+"\t\t\t\t\t- Comments\n"
+"\t\t\t\t\t- Comments > Awaiting Moderation"
+msgstr ""
+
+#: models/mvb_model_label.php:296
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tSee and use the \"publish\" button when editing their post (otherwise they can only save drafts)\n"
+"\t\t\t\tCan use XML-RPC to publish (otherwise they get a \"Sorry, you can not post on this weblog or category.\")"
+msgstr ""
+
+#: models/mvb_model_label.php:299
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel options:  \n"
+"\t\t\t\t\t- Pages\n"
+"\t\t\t\t\t- Pages > Add New"
+msgstr ""
+
+#: models/mvb_model_label.php:303
+msgid ""
+"Since 2.0\n"
+"\t\t\t\tAllows access to Administration Panel options:\n"
+"\t\t\t\t\t- Dashboard\n"
+"\t\t\t\t\t- Users > Your Profile\n"
+"\t\t\t\tUsed nowhere in the core code except the menu.php"
+msgstr ""
+
+#: models/mvb_model_label.php:308
+#: models/mvb_model_label.php:309
+#: models/mvb_model_label.php:310
+#: models/mvb_model_label.php:311
+#: models/mvb_model_label.php:312
+#: models/mvb_model_label.php:313
+#: models/mvb_model_label.php:314
+#: models/mvb_model_label.php:315
+#: models/mvb_model_label.php:316
+#: models/mvb_model_label.php:317
+#: models/mvb_model_label.php:318
+#: models/mvb_model_label.php:319
+#: models/mvb_model_label.php:320
+#: models/mvb_model_label.php:321
+#: models/mvb_model_label.php:322
+#: models/mvb_model_label.php:323
+#: models/mvb_model_label.php:324
+msgid "Since 2.1"
+msgstr ""
+
+#: models/mvb_model_label.php:325
+msgid "Since 2.3"
+msgstr ""
+
+#: models/mvb_model_label.php:326
+msgid "Since 2.5"
+msgstr ""
+
+#: models/mvb_model_label.php:327
+#: models/mvb_model_label.php:328
+msgid "Since 2.6"
+msgstr ""
+
+#: models/mvb_model_label.php:329
+#: models/mvb_model_label.php:330
+#: models/mvb_model_label.php:331
+#: models/mvb_model_label.php:332
+#: models/mvb_model_label.php:333
+#: models/mvb_model_label.php:334
+#: models/mvb_model_label.php:335
+msgid "Since 3.0"
+msgstr ""
+
+#: models/mvb_model_label.php:336
+msgid "Since 3.1"
+msgstr ""
+
+#: models/mvb_model_label.php:337
+msgid ""
+"Since 3.0\n"
+"\t\t\t\tMulti-site only\n"
+"\t\t\t\tAllows access to Network Sites menu\n"
+"\t\t\t\tAllows user to add, edit, delete, archive, unarchive, activate, deactivate, spam and unspam new site/blog in the network"
+msgstr ""
+
+#: models/mvb_model_label.php:341
+msgid ""
+"Since 3.0\n"
+"\t\t\t\tMulti-site only\n"
+"\t\t\t\tAllows access to Network Users menu"
+msgstr ""
+
+#: models/mvb_model_label.php:344
+msgid ""
+"Since 3.0\n"
+"\t\t\t\tMulti-site only\n"
+"\t\t\t\tAllows access to Network Themes menu"
+msgstr ""
+
+#: models/mvb_model_label.php:347
+msgid ""
+"Since 3.0\n"
+"\t\t\t\tMulti-site only\n"
+"\t\t\t\tAllows access to Network Options menu"
+msgstr ""
+
+#: models/mvb_model_label.php:350
+msgid "User Level 0 converts to Subscriber"
+msgstr ""
+
+#: models/mvb_model_label.php:351
+msgid "User Level 1 converts to Contributor"
+msgstr ""
+
+#: models/mvb_model_label.php:352
+msgid "User Level 2 converts to Author"
+msgstr ""
+
+#: models/mvb_model_label.php:353
+msgid "User Level 3 converts to Author"
+msgstr ""
+
+#: models/mvb_model_label.php:354
+msgid "User Level 4 converts to Author"
+msgstr ""
+
+#: models/mvb_model_label.php:355
+msgid "User Level 5 converts to Editor"
+msgstr ""
+
+#: models/mvb_model_label.php:356
+msgid "User Level 6 converts to Editor"
+msgstr ""
+
+#: models/mvb_model_label.php:357
+msgid "User Level 7 converts to Editor"
+msgstr ""
+
+#: models/mvb_model_label.php:358
+msgid "User Level 8 converts to Administrator"
+msgstr ""
+
+#: models/mvb_model_label.php:359
+msgid "User Level 9 converts to Administrator"
+msgstr ""
+
+#: models/mvb_model_label.php:360
+msgid "User Level 10 converts to Administrator"
+msgstr ""
+
+#: models/mvb_model_label.php:361
+#: models/mvb_model_label.php:362
+#: models/mvb_model_label.php:363
+msgid "Description does not exist"
+msgstr ""
+
