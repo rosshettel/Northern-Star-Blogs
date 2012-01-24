@@ -1,0 +1,65 @@
+*** Blogtheme Changelog ***
+
+2011.08.31 - version 2.3.2
+ * /includes/sidebar-init.php - Added unique IDs to widgetized areas.
+ * sidebar.php - Code consistency checks and added support for new unique widgetized area to woo_sidebar() function call.
+ * footer.php - Code consistency checks and added support for new unique widgetized area to woo_sidebar() function calls.
+
+2010.06.28 - version 2.3.1
+ * style.css - Fixed Gravity forms styling bug
+
+2010.06.21 - version 2.3.0
+ * header.php - Added theme support for WordPress 3.0 Menu Management
+ * /includes/theme-functions.php - Added theme support for WordPress 3.0 Menu Management
+ 
+2010.06.15 - version 2.2.1
+ * style.css - Added styling for Gravity forms
+
+2010.04.28 - version 2.2
+ * header.php - added support for WooNav
+ 
+2010.04.21 - version 2.1
+ * /functions/* - MAJOR UPDATE - Framework V.2.7.0
+ * header.php  - Added SEO tags, woo_title(); & woo_meta();
+ * functions.php - Changed layout for loading required files.
+
+2009.12.08 - version 2.0.2
+ * header.php - Fixed custom logo not showing for alt styles.
+
+2009.08.30 - version 2.0.1
+ * /functions/* - Core Framework 1.0.7
+ * /lang/blogtheme.po - Added language file. See: http://www.woothemes.com/2009/08/how-to-translate-a-theme/
+ * Added gettext functions to template php files to support localization.
+ 
+2009.08.06 - version 2.0.0
+  * /functions/ - New WooThemes Framework (V1.0.4) (core theme functions)
+     functions.php
+  * includes/theme-comments.php - Moved from /functions/
+     includes/theme-functions.php
+     includes/theme-js.php
+     includes/theme-options.php
+     includes/theme-widgets.php
+     includes/sidebar-init.php
+  * includes/theme-options.php - Added new general & dynamic images options
+  * archive.php - Fixed checkbox options ( $var == 'true' instead of just $var )
+	index.php
+	search.php
+	tag.php
+  * header.php - Removed jQuery includes
+  * /includes/js/accordian.js - Removed; not needed anymore
+    /includes/js/dimensions.js
+ 
+2009.05.29 - Version 1.0.3
+  * style.css - fixed styling of Lifestream Widget
+  * /includes/widgets.php - removed custom Lifestream widget
+
+2008.12.23 - version 1.0.2
+	* sitemap.php - Removed top sidebar section when on sitemap
+	  sidebar.php 
+
+2008.12.17 - version 1.0.1
+  * comments.php - Fixed bug in IE7
+  * style.css - Added styling for calendar widget
+  
+2008.11.28 - version 1.0.0
+  * First release!

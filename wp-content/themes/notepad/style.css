@@ -149,6 +149,13 @@ input[type=reset]:hover, input[type=submit]:hover {
 	color: #74685c;
 	text-shadow: 0 1px 0 #fff;
 }
+#header #logo a {
+    background: url(http://www.rosshettel.com/nstarblogs/wp-content/uploads/2012/01/nstar-logo.gif) no-repeat;
+    text-indent: -9000px;
+    width: 500px;
+    height: 100px;
+    display: block;
+}
 #header #logo, #header #logo a {
 	color: #74685c;
 	text-decoration: none;
@@ -214,6 +221,13 @@ input[type=reset]:hover, input[type=submit]:hover {
 	background: url(img/nav-bg.png) no-repeat right -85px;
 	color: #fff;
 }
+#nav li.current-cat, #nav li.current_home, #nav li:hover {
+	background: url(img/nav-bg.png) no-repeat;
+}
+#nav li.current-cat a, #nav li a:hover {
+	background: url(img/nav-bg.png) no-repeat right -85px;
+	color: #fff;
+}
 
 /* show hover bg */
 #nav li:hover a {
@@ -247,6 +261,9 @@ input[type=reset]:hover, input[type=submit]:hover {
 #nav ul li:hover, #nav ul li:hover a, #nav ul li.current_page_item {
 	background: none;
 }
+#nav ul li:hover, #nav ul li:hover a, #nav ul li.current-cat {
+	background: none;
+}
 #nav ul a {
 	color: #755433;
 	font-weight: normal;
@@ -260,6 +277,14 @@ input[type=reset]:hover, input[type=submit]:hover {
 	background: none;
 }
 #nav ul a:hover, #nav li.current_page_item li a:hover, #nav ul li.current_page_item a:hover {
+	background: none;
+	color: #000;
+}
+#nav li.current_page_item li a, #nav ul li.current-cat a {
+	color: #755433;
+	background: none;
+}
+#nav ul a:hover, #nav li.current_page_item li a:hover, #nav ul li.current-cat a:hover {
 	background: none;
 	color: #000;
 }

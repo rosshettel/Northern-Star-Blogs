@@ -1,0 +1,20 @@
+.widget h4 a:link,
+.widget h4 a:visited { 
+	background: none !important;
+	background: url(../images/accordion_up.gif) no-repeat 190px 50% !important; 
+}
+
+.widget .selected a:link,
+.widget .selected a:visited { 
+	background: none !important;
+	background: url(../images/accordion_down.gif) no-repeat 190px 50% !important;
+}
+
+.post {
+	background: url(../images/metabg.gif) top left repeat-y !important;
+}
+
+#commentform .field, #commentform .thefield textarea, .pageinfo {
+	background: none !important;
+	background: #D4CAB6 !important;
+}

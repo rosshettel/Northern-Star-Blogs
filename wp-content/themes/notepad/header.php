@@ -36,12 +36,14 @@
 	if ( !$notepad_opts['social_off'] ) include (TEMPLATEPATH . "/socialmedia.php"); ?>
 
 	<ul id="nav">
-		<li<?php if (is_home()) { echo ' class="current_home"'; }?>><a href="<?php echo get_option('home'); ?>"><?php _e('Home','notepad-theme'); ?></a></li>
-		<?php wp_list_pages(array(
+		<li<?php if (is_home()) { echo ' class="current_home"'; }?>><a href="<?php echo get_option('home'); ?>"><?php _e('All','notepad-theme'); ?></a></li>
+        
+		<?php wp_list_categories(array(
 		    'sort_column' => 'menu_order',
 		    'title_li' => '',
 		    'exclude_tree' => $notepad_opts['exclude_pages'],
 		    'depth' => $notepad_opts['no_dropdown'] ? 1 : 0,
+			'exclude' => '1',
 		)); ?>
 	</ul>
 	<?php include (TEMPLATEPATH . '/searchform.php'); ?>

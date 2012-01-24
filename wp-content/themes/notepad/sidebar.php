@@ -1,5 +1,14 @@
 	<div id="sidebar">
-
+            
+            <?php if(is_category()) :
+                $category = get_the_category(); ?>
+                
+                <div class="widget">
+                    <h4><?php echo $category[0]->cat_name; ?></h4>
+                    <p><?php echo category_description(); ?></p>
+                </div>
+            <?php endif; ?>
+            
 <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar() ) : ?>
 
 		<div class="widget">

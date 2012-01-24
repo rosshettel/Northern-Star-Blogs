@@ -34,6 +34,13 @@ if ( function_exists('register_sidebar') ) {
 
 include 'theme-options/theme_options.php';
 
+//read more excerpt
+function new_excerpt_more($more) {
+    global $post;
+    return '...  <a href="'.get_permalink($post->ID).'">[Read more]</a>';
+}
+add_filter('excerpt_more', 'new_excerpt_more');
+
 //custom comment template
 function mytheme_comment($comment, $args, $depth) {
    $GLOBALS['comment'] = $comment; ?>
