@@ -193,14 +193,14 @@ input[type=reset]:hover, input[type=submit]:hover {
 #nav {
 	position: absolute;
 	bottom: 54px;
-	left: 30px;
+	left: 15px;
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
 #nav li {
 	float: left;
-	margin: 0 10px 0 0;
+	margin: 0 3px 0 0;
 	padding: 0 0 5px 5px;
 	background: none;
 	position: relative;
@@ -208,7 +208,7 @@ input[type=reset]:hover, input[type=submit]:hover {
 #nav li a {
 	color: #fff;
 	font: bold 100%/100% Arial, Helvetica, sans-serif;
-	padding: 9px 12px 10px 8px;
+	padding: 9px 10px 10px 8px;
 	display: block;
 	text-decoration: none;
 	color: #cbc3bb;
@@ -307,7 +307,7 @@ input[type=reset]:hover, input[type=submit]:hover {
 #searchform {
 	position: absolute;
 	bottom: 57px;
-	right: 25px;
+	right: 10px;
 	background: url(img/searchform.png) no-repeat;
 	width: 222px;
 	height: 26px;
