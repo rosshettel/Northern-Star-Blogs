@@ -46,7 +46,7 @@
 			'exclude' => '1',
 		)); ?>
 	</ul>
-	<?php include (TEMPLATEPATH . '/searchform.php'); ?>
+	
 </div>
 <!--/header -->
 <div id="wrapper">

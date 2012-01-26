@@ -1,4 +1,8 @@
 	<div id="sidebar">
+            <div class="widget">
+                <h4>Search</h4>
+                <?php include (TEMPLATEPATH . '/searchform.php'); ?>
+            </div>
             
             <?php if(is_category()) :
                 $category = get_the_category(); ?>

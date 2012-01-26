@@ -711,7 +711,8 @@ content:  close-quote;
 }
 #sidebar #searchform {
 	position: relative;
-	margin: 0;
+	margin: auto;
+        
 	right: auto;
 	bottom: auto;
 }
